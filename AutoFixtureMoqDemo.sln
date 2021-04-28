@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoesCoolStore.ConsoleApp", "AutoFixtureMoqDemo\JoesCoolStore.ConsoleApp.csproj", "{1BC5A612-3838-4494-A84C-518503F7D328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoesCoolStore.Tests", "JoesCoolStore.Tests\JoesCoolStore.Tests.csproj", "{31E2B44B-D318-44C4-AFE7-E82D55A2108E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BC5A612-3838-4494-A84C-518503F7D328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BC5A612-3838-4494-A84C-518503F7D328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BC5A612-3838-4494-A84C-518503F7D328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BC5A612-3838-4494-A84C-518503F7D328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E2B44B-D318-44C4-AFE7-E82D55A2108E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E2B44B-D318-44C4-AFE7-E82D55A2108E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E2B44B-D318-44C4-AFE7-E82D55A2108E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E2B44B-D318-44C4-AFE7-E82D55A2108E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {181C2945-5714-46DA-902E-E3CF93A52CAF}
+	EndGlobalSection
+EndGlobal
